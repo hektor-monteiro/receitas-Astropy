@@ -9,7 +9,9 @@ Neste repositório apresentamos um conjunto de receitas e pequenos manuais para 
 ## Colaboradores
 
 Hektor Monteiro 
+
 Janaína Madruga 
+
 Giuana Alves da Silva 
 Bárbara Luiza de Miranda Marques 
 Ranulfo da Silva Dias 
