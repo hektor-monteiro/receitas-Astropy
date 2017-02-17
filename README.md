@@ -1,4 +1,4 @@
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/hektor-monteiro/receitas-Astropy/blob/master/LAC-logo-3.png "Laboratório de Astrofísica Computacional da UNIFEI")
 
 
 # Receitas para Astropy
