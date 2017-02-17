@@ -1,4 +1,4 @@
-![alt text](https://github.com/hektor-monteiro/receitas-Astropy/blob/master/LAC-logo-3.png "Laboratório de Astrofísica Computacional da UNIFEI")
+![alt text](https://github.com/hektor-monteiro/receitas-Astropy/blob/master/LAC-logo.png "Laboratório de Astrofísica Computacional da UNIFEI")
 
 
 # Receitas para Astropy
