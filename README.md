@@ -10,10 +10,10 @@ Neste repositório apresentamos um conjunto de receitas e pequenos manuais para 
 
 Hektor Monteiro  
 Janaína Madruga  
-Giuana Alves da Silva 
-Bárbara Luiza de Miranda Marques 
-Ranulfo da Silva Dias 
-Janderson Muniz de Oliveira 
-Adhimar Flávio Oliveira 
-João Henrique Barbosa Pinton 
-Wescley de Carvalho Dimas  
+Giuana Alves da Silva  
+Bárbara Luiza de Miranda Marques  
+Ranulfo da Silva Dias  
+Janderson Muniz de Oliveira  
+Adhimar Flávio Oliveira  
+João Henrique Barbosa Pinton  
+Wescley de Carvalho Dimas   
