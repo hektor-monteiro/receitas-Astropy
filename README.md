@@ -17,3 +17,4 @@ Janderson Muniz de Oliveira
 Adhimar Flávio Oliveira  
 João Henrique Barbosa Pinton  
 Wescley de Carvalho Dimas   
+Lucas Barbosa Ribeiro  
